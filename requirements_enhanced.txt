@@ -1,0 +1,16 @@
+ultralytics
+opencv-python
+pandas
+numpy
+psycopg2-binary
+python-dotenv
+streamlit
+plotly
+twilio
+easyocr
+Pillow
+scikit-learn
+fastapi
+uvicorn[standard]
+python-multipart
+scikit-learn

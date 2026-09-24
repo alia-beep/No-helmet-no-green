@@ -1,0 +1,11 @@
+Metric,Value
+Total Samples,134.0
+Successfully Evaluated,73.0
+Correct Predictions,65.0
+Wrong Predictions,8.0
+No Detection,5.0
+Missing Images,0.0
+Accuracy,0.8904109589041096
+Precision,0.918531314024023
+Recall,0.8904109589041096
+F1 Score,0.9008751902587518
